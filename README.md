@@ -69,4 +69,53 @@
 
 ---
 
-### 7. Analys
+### 7. Analyse Phases A & B – Ingénieurs vs Machines
+![Analyses acctivity phase (A)engineer VS (B)Machines](Screenshot/Analyses%20acctivity%20phase%20(A)engineer%20VS%20(B)Machines.png)
+
+> Agency-level drill-down of Phase A (engineer productivity) vs Phase B 
+> (machine/equipment units) — comparing ETP réel vs budget, PVJI variance, 
+> production days, and PVJE across all agency grouping codes with 
+> dual waterfall charts for effet activité and effet UP.
+
+---
+
+### 8. Statistiques – Budget vs Réalisé
+![Details stats](Screenshot/Details%20stats.png)
+
+> HR and production statistics matrix: headcount analysis (Effectif bureau, 
+> chantier, ingénieur, intérimaire) Budget vs Réel with variation. 
+> Production stats: équipes affectées, jours de production ST externe/interne. 
+> Ratio I/B Budget 4.2 vs Réel 4.0. Filterable by agency and region.
+
+---
+
+### 9. Indicateurs FI – Filiale
+![Indicator Filiale by region](Screenshot/Indicator%20Filiale%20by%20region.png)
+
+> Subsidiary-level financial indicators: daily cost per production day 
+> (Budget 1,285€ vs Réel 1,489€), Coûts/PNE ratio (Budget 25.2% vs Réel 26.6%). 
+> Full P&L breakdown Budget vs Réel + Variation: PNE, Dépenses Opérationnelles, 
+> Dépenses Indirectes, EBITDA — filterable by Filière (CEFI, GSFI, GIFI, WEFI).
+
+---
+
+### 10. Détail des Écritures Navision
+![Deatils ledger entry ERP](Screenshot/Deatils%20ledger%20entry%20ERP.png)
+
+> ERP ledger drill-through from Navision/Business Central — detailed 
+> accounting entries by category: PNE (20.7M€), Dépenses Opérationnelles 
+> (-11.3M€), Dépenses Indirectes (-4.9M€), Dépenses Exceptionnelles (-537K€). 
+> KPI cards: % MOP 31.6% and % PNE R/B 30%. Filterable by month, region, 
+> and agency grouping code.
+
+---
+
+## 🔍 Key Features
+
+- 10-page financial reporting platform covering full P&L from PNE to EBITDA
+- Budget vs Réel vs N-1 comparison at region, filiale, and agency level
+- Waterfall bridge charts for MOP and PNE variance decomposition
+- Phase A/B productivity analysis (ETP effect vs activity/productivity effect)
+- Direct ERP ledger drill-through from Navision/Business Central
+- Dynamic filters: Month range slider, Région, Regroupement Code, Filière
+- Weighted staffing ratios and daily cost per production day tracking
